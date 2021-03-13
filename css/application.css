@@ -225,6 +225,10 @@ header h1 {
 
 /* ~~~~~~~~ contact ~~~~~~~~ */
 
+#contact{
+  padding-bottom: 20rem;
+}
+
 /* ~~~~~~~~ mobile ~~~~~~~~ */
 
 @media screen and (max-width: 576px) {
